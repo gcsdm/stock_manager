@@ -22,5 +22,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/DEV/java_lib/stockmanager/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/java_lib/stockmanager/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/java_lib/stockmanager/mysql-connector-java-5.1.36.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/java_lib/stockmanager/rowset_jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/java_lib/stockmanager/smiparser-0.6.15.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
